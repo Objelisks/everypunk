@@ -1,0 +1,10 @@
+target
+reports
+test
+.idea
+.git
+.npmignore
+Makefile
+twitter.txt
+*.iml
+*.ipr
