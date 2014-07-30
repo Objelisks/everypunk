@@ -16,7 +16,8 @@ function post(tweet, callback) {
 }
 
 function doThing() {
-	var dict = fs.readFileSync('./dict.txt', {encoding: 'utf8'}).split('\r\n');
+        // \r\n for windows, \n for linux, mac?
+	var dict = fs.readFileSync('./dict.txt', {encoding: 'utf8'}).split('\n'); // CHANGE LINE ENDINGS
 	var word = dict[progress.next] + 'punk';
 
 	post(word, function() {
@@ -27,6 +28,6 @@ function doThing() {
 }
 
 // every 30 minutespunk
-var interval = 1000 * 60 * 30;
+var interval = 1000 * 60 * 15;
 doThing();
 setInterval(doThing, interval);
