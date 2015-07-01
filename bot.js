@@ -18,7 +18,7 @@ function post(tweet, callback) {
 function doThing() {
     // \r\n for windows, \n for linux, mac?
 	var dict = fs.readFileSync('./dict.txt', {encoding: 'utf8'}).split('\n'); // CHANGE LINE ENDINGS
-	var word = dict[progress.next] + 'punk';
+	var word = dict[progress.next] + ' punk';
 
 	post(word, function() {
 		progress.lastWord = word;
