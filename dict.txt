@@ -7847,9 +7847,11 @@ cutup
 cutworm
 cyan
 cyanide
+cyber
 cybernetic
 cybernetics
 cyberpunk
+cyberpunkpunk
 cyberspace
 cyborg
 cyclamen
@@ -11202,8 +11204,10 @@ everybody
 everyday
 everyone
 everyplace
+everypunk
 everything
 everywhere
+everyword
 evict
 eviction
 evidence
@@ -13087,6 +13091,7 @@ frontispiece
 frontrunner
 frontward
 frontwards
+frood
 frosh
 frost
 frostbit
@@ -13133,6 +13138,7 @@ fry
 fryer
 fuchsia
 fuck
+fucked
 fucker
 fucking
 fuddle
@@ -13347,6 +13353,7 @@ game
 gamecock
 gamekeeper
 gameness
+gamer
 games
 gamesmanship
 gamester
@@ -13508,6 +13515,7 @@ gemology
 gemstone
 gendarme
 gender
+genderfluid
 gene
 genealogical
 genealogist
@@ -16063,6 +16071,7 @@ illuminate
 illuminated
 illuminating
 illumination
+illuminati
 illumine
 ill-usage
 ill-use
@@ -21558,6 +21567,7 @@ neuritis
 neurological
 neurologist
 neurology
+neuromancer
 neuron
 neuronal
 neuroses
@@ -21636,9 +21646,6 @@ nickname
 nicotine
 niece
 nifty
-niggard
-niggardliness
-nigger
 niggle
 niggler
 niggling
@@ -22294,6 +22301,7 @@ objective
 objectiveness
 objectivity
 objector
+objelisks
 objurgate
 objurgation
 oblate
@@ -26082,6 +26090,7 @@ punishing
 punishment
 punitive
 punk
+
 punster
 punt
 punter
@@ -29036,6 +29045,7 @@ seafaring
 seafloor
 seafood
 seafront
+seag
 seagoing
 seagull
 seahorse
@@ -33553,6 +33563,7 @@ tillable
 tillage
 tiller
 tilt
+tim
 timber
 timbered
 timberland
@@ -33860,6 +33871,7 @@ totalizator
 tote
 totem
 totemic
+totes
 totter
 totterer
 tottering
@@ -37643,6 +37655,7 @@ yeti
 yew
 yield
 yielding
+yiff
 yikes
 yin
 yip
