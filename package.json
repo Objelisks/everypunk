@@ -1,0 +1,24 @@
+{
+  "name": "everypunk",
+  "version": "1.0.0",
+  "description": "everypunk =========",
+  "main": "bot.js",
+  "dependencies": {
+    "swagger-client": "^2.1.4",
+    "twitter-js-client": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Objelisks/everypunk.git"
+  },
+  "author": "@objelisks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Objelisks/everypunk/issues"
+  },
+  "homepage": "https://github.com/Objelisks/everypunk"
+}
