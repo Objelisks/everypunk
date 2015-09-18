@@ -1,6 +1,10 @@
 {
-	"consumerKey": "",
-	"consumerSecret":"",
-	"accessToken":"",
-	"accessTokenSecret":""
+    "wordnik": "",
+    "twitter": {
+        "consumerKey": "",
+        "consumerSecret": "",
+        "accessToken": "",
+        "accessTokenSecret": ""
+    }
 }
+
