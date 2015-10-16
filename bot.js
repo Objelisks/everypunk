@@ -19,7 +19,7 @@ function post(tweet, callback) {
 }
 
 var randomParams = {
-    "includePartOfSpeech": "noun,adjective,verb,adverb,interjection,pronoun,verb-intransitive,verb-transitive"
+    "includePartOfSpeech": "noun,adjective,verb,adverb,interjection,pronoun,verb-intransitive,verb-transitive",
     "hasDictionaryDef": "true",
     "minCorpusCount": 1,
     "maxCorpusCount": -1,
