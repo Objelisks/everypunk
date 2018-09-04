@@ -31,7 +31,7 @@ var randomParams = {
 
 function doThing() {
     var wordnik = new Swagger({
-        url: 'http://developer.wordnik.com/v4/resources.json',
+        url: 'http://api.wordnik.com/v4/resources.json',
         success: function() {
             wordnik.words.getRandomWord(randomParams, {responseContentType: 'application/json'}, function(res) {
                 var word = res.obj.word + 'punk';
